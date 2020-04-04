@@ -5,3 +5,7 @@
 4) Polymorphism - method, properties, fields overloading, is the ability of two different objects to respond to the same request message in their own unique way,
 5) Inheritance - You use inheritance in OOP to classify the objects in your programs according to common characteristics and function. This makes working with the objects easier and more intuitive. It also makes programming easier because
    it enables you to combine general characteristics into a parent object and inherit these characteristics in the child objects.
+
+.NET components:
+-CLR Common LAngyuage Ruyntime
+-
