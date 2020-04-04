@@ -1,5 +1,7 @@
-1) Object
-2) Abstraction
-3) Encapsulation
-4) Polymorphism
-5) Inheritance
+1) Object - In OOP terms, an object is a structure for incorporating data and the procedures for working with that data.
+2) Abstraction - abstract, virtual classes, overriding.
+3) Encapsulation - is the process in which no direct access is granted to the data; instead, it is hidden. If you want to gain access to the data, you have to interact with the object responsible
+   for the data.
+4) Polymorphism - method, properties, fields overloading, is the ability of two different objects to respond to the same request message in their own unique way,
+5) Inheritance - You use inheritance in OOP to classify the objects in your programs according to common characteristics and function. This makes working with the objects easier and more intuitive. It also makes programming easier because
+   it enables you to combine general characteristics into a parent object and inherit these characteristics in the child objects.
